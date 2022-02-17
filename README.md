@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jayDesai101
 - 👀 I’m interested in Artifical Intelligence
-- 🌱 I’m currently learning mobile app development
+- 🌱 I’m currently learning lite weight Deep learning
 - 💞️ I’m looking to collaborate on ML/AI projects
 
 
